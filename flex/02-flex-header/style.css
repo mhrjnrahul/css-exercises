@@ -31,3 +31,13 @@ a {
   text-decoration: none;
 }
 
+.left-links{
+  display: flex;
+  margin-right: auto;
+}
+
+.right-links{
+  margin-left: auto;
+  padding-right: 35px;
+}
+
